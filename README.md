@@ -22,7 +22,9 @@
 
 <a href="https://github.com/ashok-ga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashok-ga&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=ashok-ga&theme=radical&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
+</a>
+<a href="https://github.com/ashok-ga">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=ashok-ga&theme=radical&hide_border=true" />
 </a>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashok-ga&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF)
