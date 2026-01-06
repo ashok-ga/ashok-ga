@@ -1,38 +1,47 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ashok%20Kumar%20Chaudhary&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Lead%20Robotics%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20IIT%20Kanpur&descAlignY=52&descSize=18"/>
-
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🤖+Building+Autonomous+Systems;⚡+STM32+%7C+ESP32+%7C+ROS2+Expert;🚀+From+Hardware+to+Full+Stack" alt="Typing SVG" /></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Ashok%20Kumar%20Chaudhary&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Lead%20Robotics%20Engineer%20%7C%20Software%20Developer%20%7C%20IIT%20Kanpur&descAlignY=55&descSize=18"/>
 
 <br/>
 
-<!-- Social Badges -->
-<p>
-<a href="https://ashokkumarchaudhary.com/"><img src="https://img.shields.io/badge/🌐_Portfolio-ashokkumarchaudhary.com-FF6B6B?style=for-the-badge&labelColor=1a1b27"/></a>
-<a href="mailto:ashok281196@gmail.com"><img src="https://img.shields.io/badge/📧_Email-ashok281196@gmail.com-EA4335?style=for-the-badge&labelColor=1a1b27"/></a>
-<a href="https://www.linkedin.com/in/ashok-kumar-chaudhary-/"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=1a1b27"/></a>
-</p>
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%A4%96+Building+Autonomous+Robots+%7C+%E2%9A%A1+STM32+%7C+ESP32+%7C+ROS2;%F0%9F%9A%80+From+Firmware+to+Full+Stack+Applications)](https://git.io/typing-svg)
 
-<!-- Location & Views -->
-<p>
-<img src="https://img.shields.io/badge/📍_Bengaluru,_Karnataka,_India-1a1b27?style=flat-square"/>
-<img src="https://komarev.com/ghpvc/?username=ashok-ga&color=blueviolet&style=flat-square&label=Profile+Views"/>
-</p>
+<br/>
+
+<!-- Social Badges with Icons -->
+<a href="https://ashokkumarchaudhary.com/">
+  <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+<a href="mailto:ashok281196@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/ashok-kumar-chaudhary-/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/ashok-ga">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<!-- Location & Profile Views -->
+<img src="https://img.shields.io/badge/📍%20Bengaluru,%20Karnataka,%20India-1a1b27?style=flat-square&labelColor=1a1b27"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=ashok-ga&color=667eea&style=flat-square&label=Profile+Views"/>
 
 </div>
 
-<!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```yaml
 name: Ashok Kumar Chaudhary
-located_in: Bengaluru, India
+location: Bengaluru, India
 current_role: Lead Robotics Engineer @ General Autonomy
 
 education:
@@ -50,173 +59,135 @@ achievements:
   - 🥉 3rd Prize @ IEEE ICRA Robomasters
   - 🥇 Gold Medal @ DRDO Inter IIT
 
-currently_learning: Advanced Motion Planning
-fun_fact: "Building robots that change the world!"
+fun_fact: Building robots that change the world!
 ```
 
 <br clear="right"/>
 
-<!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🤖 Robotics & Embedded Systems
+### 🤖 Robotics & Embedded
 
-<p>
-<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-<img src="https://img.shields.io/badge/MuJoCo-FF6B6B?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white"/>
-</p>
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
 
-### 💻 Programming Languages
+### 💻 Languages
 
-<p>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-</p>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### 🌐 Web Development
 
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-<!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Analytics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ashok-ga&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" alt="Ashok's GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashok-ga&layout=compact&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=ashok-ga&theme=tokyonight_duo&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashok-ga&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashok-ga&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B&area=true&area_color=00D4FF" alt="Contribution Graph"/>
-</div>
-
-<!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💼 Work Experience
-
-<details open>
-<summary><b>🤖 Lead Robotics Engineer @ General Autonomy</b> <i>(Nov 2024 - Present)</i></summary>
-<br/>
-
-> **📍 Bengaluru, India**
-
-| Area | Responsibilities |
-|------|-----------------|
-| 🔧 **Design & Simulation** | CAD mechanisms, author/convert URDF MJCF, validate physics in MuJoCo/ROS2 |
-| ⚙️ **Firmware & Control** | Compact STM32/ESP32 code for PID motor drives, CAN/IMU integration, real-time logging |
-| 💻 **Software & Leadership** | ROS2 packages, React/FastAPI UIs, HLS/WebRTC streaming, CI/CD, and team mentorship |
-
-</details>
-
-<details>
-<summary><b>💻 Software Developer @ Testbook</b> <i>(Jan 2022 - Jul 2023)</i></summary>
-<br/>
-
-> **📍 Navi Mumbai, India**
-
-- 🏆 Received **'Star Performer'** award in Q3 2022-23 as a standout member and led the production as release owner
-- ⚡ Implemented Server Side Rendering (SSR) on several pages, improving web vital metrics like LCP and FCP manyfold
-- 🔍 Optimized website SEO according to the latest Google's SEO guidelines and implemented Open Graph protocols
-- 📈 Achieved a **2.5X jump in App Installs** by creating a Dynamic Deep-Linking pipeline for Open in App and App Installs
-
-</details>
-
-<details>
-<summary><b>👥 Founder and Team Head @ ERA IITK</b> <i>(Sep 2018 - Apr 2021)</i></summary>
-<br/>
-
-> **📍 IIT Kanpur**
-
-- 🚀 Founded and led an autonomous AI robotics team with over 20 members to participate in various AI robotics competitions
-- 🥉 Won **Third Prize** in IEEE ICRA Robomasters AI Challenge 2019 held in Montreal, Canada representing India
-- 🎯 Bagged the Outstanding Prize for each of Navigation and Motion Planning and Visual Perception in 2020 edition
-
-</details>
-
-<details>
-<summary><b>💻 Software Developer @ Siemens Technology India</b> <i>(May 2019 - Jul 2019)</i></summary>
-<br/>
-
-> **📍 Bangalore, India**
-
-- 🚀 Implemented model validation as a service, reducing development and deployment time from days to seconds
-- 📊 Created a client dashboard for real-time device parameter visualization and insights using ReactJS and Chart.js
-- 🔄 Automated the delivery pipeline with AWS S3, DynamoDB, and Boto3 for continuous deployment and feedback
-
-</details>
-
-<details>
-<summary><b>💻 Software Developer @ Nocca Robotics</b> <i>(May 2018 - Jul 2018)</i></summary>
-<br/>
-
-> **📍 Kanpur, India**
-
-- ☀️ Created an industrial Dual Axis Solar Tracker based on NREL's Solar Position Algorithm, to automatically align 9-Solar Panels towards the sun
-- 📈 **Increased the average power generation by 30%**
-- 📡 Worked with different communication protocols like I2C, UART, and SPI for onboard, and Zigbee-Mesh for long-range communication
-
-</details>
-
-<!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎯 Featured Projects
+## 📊 GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/ashok-ga">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashok-ga&repo=ashok-ga&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashok-ga&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashok-ga&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117"/>
 </a>
 
 </div>
 
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=ashok-ga&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=f093fb&currStreakLabel=667eea)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashok-ga&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 💼 Experience
+
+<details open>
+<summary><b>🤖 Lead Robotics Engineer @ General Autonomy</b> &nbsp;•&nbsp; <i>Nov 2024 - Present</i></summary>
 <br/>
+
+> 📍 **Bengaluru, India**
+
+| Area | Key Contributions |
+|:-----|:------------------|
+| 🔧 **Design & Simulation** | CAD mechanisms, URDF/MJCF authoring, MuJoCo/ROS2 physics validation |
+| ⚙️ **Firmware & Control** | STM32/ESP32 firmware, PID motor control, CAN/IMU integration |
+| 💻 **Software & Leadership** | ROS2 packages, React/FastAPI UIs, HLS/WebRTC streaming, CI/CD pipelines |
+
+</details>
+
+<details>
+<summary><b>💻 Software Developer @ Testbook</b> &nbsp;•&nbsp; <i>Jan 2022 - Jul 2023</i></summary>
+<br/>
+
+> 📍 **Navi Mumbai, India**
+
+- 🏆 Awarded **'Star Performer'** in Q3 2022-23 • Led production as release owner
+- ⚡ Implemented SSR improving LCP and FCP metrics significantly  
+- 📈 Achieved **2.5X jump in App Installs** via Dynamic Deep-Linking pipeline
+
+</details>
+
+<details>
+<summary><b>👥 Founder & Team Lead @ ERA IITK</b> &nbsp;•&nbsp; <i>Sep 2018 - Apr 2021</i></summary>
+<br/>
+
+> 📍 **IIT Kanpur**
+
+- 🚀 Founded autonomous AI robotics team (20+ members)
+- 🥉 **3rd Prize** at IEEE ICRA Robomasters AI Challenge 2019, Montreal 🇨🇦
+- 🎯 Won Outstanding Prize in Navigation, Motion Planning & Visual Perception (2020)
+
+</details>
+
+<details>
+<summary><b>� Software Developer @ Siemens Technology India</b> &nbsp;•&nbsp; <i>May - Jul 2019</i></summary>
+<br/>
+
+> 📍 **Bangalore, India**
+
+- 🚀 Built model validation service reducing deployment time from days to seconds
+- 📊 Created real-time visualization dashboard with ReactJS and Chart.js
+- 🔄 Automated CI/CD pipeline with AWS S3, DynamoDB, and Boto3
+
+</details>
+
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -224,11 +195,11 @@ fun_fact: "Building robots that change the world!"
 
 ### 🦽 Robotic Wheelchair
 
-**Healthcare Robotics | BIRAC, Govt of India**
+**Healthcare Robotics | BIRAC, Govt. of India**
 
-Design, development, and bio-enabled control of a robotic wheelchair for motor disabled and elderly care.
+Bio-enabled control system for motor disabled and elderly care
 
-`Robotics` `Healthcare` `Bio-Engineering` `Research`
+`Robotics` `Healthcare` `Research`
 
 </td>
 <td width="50%">
@@ -237,9 +208,9 @@ Design, development, and bio-enabled control of a robotic wheelchair for motor d
 
 **OpenGL & C++**
 
-Developed a 3D game engine from scratch with ray tracing, collision detection, texture mapping, and lighting models.
+Custom engine with ray tracing, collision detection, texture mapping
 
-`C++` `OpenGL` `Game Development` `Graphics`
+`C++` `OpenGL` `Graphics`
 
 </td>
 </tr>
@@ -250,97 +221,86 @@ Developed a 3D game engine from scratch with ray tracing, collision detection, t
 
 **Autonomous Navigation**
 
-Autonomous robot navigation using Adaptive Monte Carlo Localization (AMCL) and OctoMap.
+AMCL-based robot navigation with OctoMap integration
 
-`ROS` `SLAM` `Navigation` `Path Planning`
+`ROS` `SLAM` `Navigation`
 
 </td>
 <td width="50%">
 
-### 🧠 Brain Computer Interface
+### 🧠 Brain-Computer Interface
 
-**EEG Signal Processing**
+**Neural Signal Processing**
 
-Acquired and processed EEG signals from the brain to map patterns for different control tasks.
+EEG pattern mapping for control task execution
 
-`Signal Processing` `EEG` `BCI` `ML`
+`Signal Processing` `BCI` `ML`
 
 </td>
 </tr>
 </table>
 
-<!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 🏆 Achievements & Awards
+## 🏆 Achievements
 
 <div align="center">
 
-| 🏆 Award | 📅 Year | 🏢 Organization |
-|:---------|:-------:|:----------------|
-| 🥉 **3rd Prize, DJI Robomasters AI Challenge** | 2019 | IEEE ICRA, Montreal 🇨🇦 |
-| 🥇 **Gold Medal, Technologies for Soldiers Support** | 2017 | DRDO, Inter IIT Tech Meet |
-| 🏆 **Winner, Summer Projects** | 2017 | Science & Tech Council, IITK |
-| 🥈 **Runner up, Electromania** | 2017 | Techkriti, IIT Kanpur |
-| 🏆 **Winner, Winter Club Hackathon** | 2017 | Electronics Club, IITK |
+| Award | Year | Organization |
+|:------|:----:|:-------------|
+| 🥉 **3rd Prize - DJI Robomasters AI Challenge** | 2019 | IEEE ICRA, Montreal 🇨🇦 |
+| 🥇 **Gold Medal - Tech for Soldiers Support** | 2017 | DRDO, Inter IIT Tech Meet |
+| 🏆 **Winner - Summer Projects** | 2017 | Science & Tech Council, IITK |
+| 🥈 **Runner-up - Electromania** | 2017 | Techkriti, IIT Kanpur |
+| 🏆 **Winner - Winter Club Hackathon** | 2017 | Electronics Club, IITK |
 
 </div>
 
-<!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🎓 Education
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🎓_MTech_@_IIT_Kanpur-2020--2021-00D4FF?style=for-the-badge&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/🎓_BTech_@_IIT_Kanpur-2016--2020-00D4FF?style=for-the-badge&labelColor=1a1b27"/>
+![MTech](https://img.shields.io/badge/MTech-IIT_Kanpur_(2020--2021)-667eea?style=for-the-badge&labelColor=1a1b27)
+![BTech](https://img.shields.io/badge/BTech-IIT_Kanpur_(2016--2020)-764ba2?style=for-the-badge&labelColor=1a1b27)
 
 </div>
 
-<!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-<p>
-<a href="https://ashokkumarchaudhary.com/"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-<a href="mailto:ashok281196@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ashok-kumar-chaudhary-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/ashok-ga"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<br/>
-
-<!-- Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-<br/>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+<a href="https://ashokkumarchaudhary.com/">
+  <img src="https://img.shields.io/badge/Website-667eea?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+<a href="mailto:ashok281196@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/ashok-kumar-chaudhary-/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/ashok-ga">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-### 💭 Quote of the Day
+### 💭
 
 > *"Building robots that can change the world, one line of code at a time!"* 🤖
 
 <br/>
 
-**Thanks for visiting my profile!** ⭐ **Feel free to star some repositories!**
+⭐ **Thanks for visiting!** Feel free to explore my repositories.
 
 <br/>
 
-<img src="https://img.shields.io/badge/Made_with-❤️-red?style=for-the-badge"/>
+![Made with Love](https://img.shields.io/badge/Made_with-❤️-f093fb?style=for-the-badge)
 
 </div>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer"/>
