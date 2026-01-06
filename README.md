@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%A4%96+Building+Autonomous+Robots+%7C+%E2%9A%A1+STM32+%7C+ESP32+%7C+ROS2;%F0%9F%9A%80+From+Firmware+to+Full+Stack+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%A4%96+Building+Autonomous+Robots)](https://git.io/typing-svg)
 
 <br/>
 
@@ -112,22 +112,15 @@ fun_fact: Building robots that change the world!
 
 <div align="center">
 
-<a href="https://github.com/ashok-ga">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashok-ga&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashok-ga&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117"/>
-</a>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=ashok-ga&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=f093fb&currStreakLabel=667eea)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashok-ga&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ashok-ga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=667eea&title_color=667eea"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ashok-ga&show_icons=true&theme=default&hide_border=true"/>
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ashok-ga&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashok-ga&layout=compact&langs_count=8&theme=default&hide_border=true"/>
+</picture>
 
 </div>
 
