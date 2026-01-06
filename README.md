@@ -108,24 +108,30 @@ fun_fact: Building robots that change the world!
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ashok-ga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=667eea&title_color=667eea"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ashok-ga&show_icons=true&theme=default&hide_border=true"/>
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ashok-ga&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashok-ga&layout=compact&langs_count=8&theme=default&hide_border=true"/>
-</picture>
+<!-- GitHub Profile Stats using shields.io (always reliable) -->
+<a href="https://github.com/ashok-ga">
+  <img src="https://img.shields.io/github/followers/ashok-ga?style=for-the-badge&logo=github&labelColor=1a1b27&color=667eea"/>
+</a>
+<a href="https://github.com/ashok-ga?tab=repositories">
+  <img src="https://img.shields.io/badge/Public%20Repos-10+-667eea?style=for-the-badge&logo=github&labelColor=1a1b27"/>
+</a>
+<a href="https://github.com/ashok-ga">
+  <img src="https://img.shields.io/badge/Focus-Robotics%20%26%20Web-764ba2?style=for-the-badge&logo=github&labelColor=1a1b27"/>
+</a>
 
 <br/><br/>
 
-<!-- Contribution Heatmap -->
-<img src="https://ghchart.rshb.jp/667eea/ashok-ga" alt="GitHub Contribution Graph"/>
+### 🔥 Primary Languages
+
+![C++](https://img.shields.io/badge/C++-35%25-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-30%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-20%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-10%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Other](https://img.shields.io/badge/Other-5%25-gray?style=flat-square)
 
 </div>
 
