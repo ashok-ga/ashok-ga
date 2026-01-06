@@ -42,7 +42,7 @@ fun_fact: Building robots that change the world!
 
 ---
 
-## � Experience
+## 📚 Experience
 
 ```yaml
 general_autonomy:
